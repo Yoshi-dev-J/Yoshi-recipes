@@ -1,3 +1,3 @@
 ##My first project
 
-I am going to build a recipe page using html
+I am going to build a recipe page for making a ratatouille!!
